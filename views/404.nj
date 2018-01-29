@@ -1,0 +1,7 @@
+{% extends "base.nj" %}
+
+{% block content %}
+<h1>Not found</h1>
+<p>Sorry your template not found</p>
+{% endblock %}
+

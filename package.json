@@ -1,0 +1,26 @@
+{
+  "name": "WebDevelopmentTemplate",
+  "version": "0.0.1",
+  "description": "Web development template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "serve": "gulp serve",
+    "build": "gulp build",
+    "clean": "gulp clean"
+  },
+  "author": "Carlos Escriche Izquierdo",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.0.0",
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-nunjucks-render": "^2.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "dependencies": {}
+}
