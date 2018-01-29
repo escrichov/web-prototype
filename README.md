@@ -1,5 +1,5 @@
 # web-prototype
-Template project for web development rapid prototyping.
+Personal template project for web development rapid prototyping.
 
 ## Install
 
